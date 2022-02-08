@@ -18,5 +18,7 @@ for (i = 1; i < 100; i++)
         }
 }
 
+console.log(`New feature`);
+
 // https://proglib.io/p/wtf-javascript-math
 // https://learn.javascript.ru/number#netochnye-vychisleniya
